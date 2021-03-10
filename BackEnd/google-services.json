@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "676482842860",
+    "firebase_url": "https://brink-satm-default-rtdb.firebaseio.com",
+    "project_id": "brink-satm",
+    "storage_bucket": "brink-satm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676482842860:android:0b24b1eb970891259465c9",
+        "android_client_info": {
+          "package_name": "com.alma.atmmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676482842860-t8bsou0djeukf60ne1kqlijj910n1mdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwyGepWx46nA_g8UocjBAp7gERqpG6_Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676482842860-t8bsou0djeukf60ne1kqlijj910n1mdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676482842860:android:713097ebabcc8f179465c9",
+        "android_client_info": {
+          "package_name": "com.alma.brinksatm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676482842860-t8bsou0djeukf60ne1kqlijj910n1mdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwyGepWx46nA_g8UocjBAp7gERqpG6_Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676482842860-t8bsou0djeukf60ne1kqlijj910n1mdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

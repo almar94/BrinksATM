@@ -1,0 +1,4 @@
+include ':Common'
+include ':BackEnd'
+include ':FrontEnd'
+rootProject.name = "BrinksATM"
